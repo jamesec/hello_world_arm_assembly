@@ -1,5 +1,6 @@
 # hello_world_arm_assembly
 
+Compile and run the program in macOS Terminal:  
 `gcc hello_world_arm_assembly.s -o hello_world_arm_assembly`  
 `./hello_world_arm_assembly`  
 `echo $?`
