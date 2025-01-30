@@ -3,7 +3,7 @@
 _main:
         adr x0, msg
         bl _puts
-        mov x0, #42
+        mov x0, #666
         b _exit
 
 msg:
